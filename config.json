@@ -88,19 +88,16 @@
     "naixxzy": {
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "name": "AV-奶香香",
-      "detail": "https://Naixxzy.com",
-      "is_adult": true
+      "detail": "https://Naixxzy.com"
    },
     "msnii": {
       "api": "https://www.msnii.com/api/json.php",
       "name": "AV-美少女资源",
-      "detail": "https://www.msnii.com",
-      "is_adult": true
+      "detail": "https://www.msnii.com"
    },
     "qiqidys": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视",
-      "is_adult": false
+      "name": "七七影视"
     }
   }
 }
